@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+data/data_file
+rouigram/__init__.py
+rouigram/package_data.dat
+rouigram.egg-info/PKG-INFO
+rouigram.egg-info/SOURCES.txt
+rouigram.egg-info/dependency_links.txt
+rouigram.egg-info/entry_points.txt
+rouigram.egg-info/requires.txt
+rouigram.egg-info/top_level.txt

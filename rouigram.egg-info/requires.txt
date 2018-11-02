@@ -1,0 +1,8 @@
+requests
+urlopen
+
+[dev]
+check-manifest
+
+[test]
+coverage
