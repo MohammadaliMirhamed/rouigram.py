@@ -4,7 +4,12 @@ Rouigram is a simple and use-full platform for Instagram user id
 without any registration. instagram user_id is the important factor 
 to use other API of Instagram for making interconnected application.
 [You can help develop this code in the github][src]. 
-
+# how to install 
+type in your terminal 
+```python
+pip install rouigram
+```
+#Sample Code
 ```python
 import rouigram as instagram
 
